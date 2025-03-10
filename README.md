@@ -89,12 +89,7 @@ Repositori ini berisi materi, praktikum, dan tugas untuk mata kuliah Pemrograman
 
 ## 📂 Struktur Repositori
 
-praktikum-web-programming-2025/
-├── minggu-1/ # Materi minggu 1
-│ ├── readme.md
-│ ├── tugas/
-│ └── contoh-kode/
-├── minggu-n/
+- TODO
 
 ## 🛠️ Sumber Belajar
 1. **Buku Utama**:  
