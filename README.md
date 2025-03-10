@@ -47,5 +47,5 @@ minggu-n/<br />
 
 ## 📞 Kontak
 - **Dosen**: M. Habib Algifari (muhammad.algifari@itera.ac.id)  
-- **Asisten**: Ahamad Fadillah (asisten.web@itera.ac.id)  
-- **Asisten**: Daffa Abdurrahman Jatmiko (asisten.web@itera.ac.id)  
+- **Asisten Kuliah**: Ahamad Fadillah (ahmad.121140173@student.itera.ac.id)  
+- **Asisten Kuliah**: Daffa Abdurrahman Jatmiko (daffa.121140181@student.itera.ac.id) 
