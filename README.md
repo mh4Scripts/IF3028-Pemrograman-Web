@@ -18,8 +18,15 @@ Repositori ini berisi materi, praktikum, dan tugas untuk mata kuliah Pemrograman
 | 13-16 | Implementasi aplikasi web full-stack | - Perancangan ide<br>- Pengembangan server<br>- Pengembangan client | Proyek akhir | Presentasi & demo proyek (50%) | Buku 1 Bab 9<br>Template Proyek |
 
 ## 📂 Struktur Repositori
+minggu-1/<br />
+|__ contoh_kode/<br />
+|__ tugas_praktikum/<br />
+|__ readme.md<br />
 
-- TODO
+minggu-n/<br />
+|__ contoh_kode/<br />
+|__ tugas_praktikum/<br />
+|__ readme.md<br />
 
 ## 🛠️ Sumber Belajar
 1. **Buku Utama**:  
