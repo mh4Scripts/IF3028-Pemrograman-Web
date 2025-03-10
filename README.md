@@ -8,8 +8,8 @@ Repositori ini berisi materi, praktikum, dan tugas untuk mata kuliah Pemrograman
 
 | Minggu | Sub-CPMK | Materi Pembelajaran | Tugas/Praktikum | Penilaian | Slide |
 |--------|----------|----------------------|-----------------|-----------|----------------|
-| 1 | Mampu menelaah cara kerja aplikasi web | - Client-Server Model<br>- HTTP/HTTPS, DNS, URL<br>- Web Browsers & Servers | Analisis arsitektur web | Individu 1 (2%) | - |
-| 2 | Mampu menguraikan cara kerja HTML | - Sintaks HTML<br>- Semantic Markup<br>- Struktur Dokumen HTML | Membuat halaman HTML sederhana | Individu 2 (3%) | - |
+| 1 | Mampu menelaah cara kerja aplikasi web | - Client-Server Model<br>- HTTP/HTTPS, DNS, URL<br>- Web Browsers & Servers | Analisis arsitektur web | Tugas Individu 1 (2%) | - |
+| 2 | Mampu menguraikan cara kerja HTML | - Sintaks HTML<br>- Semantic Markup<br>- Struktur Dokumen HTML | Membuat halaman HTML sederhana | Tugas Individu 2 (3%) | - |
 | 3-4 | Mampu menghubungkan penggunaan tag HTML dan CSS | - Styling Tabel & Form<br>- Microformats<br>- Layout dengan CSS | - | UTS Analisis Desain Web (10%) | - |
 | 5-7 | Mampu menguraikan konsep pengembangan sisi client | - Dasar JavaScript<br>- ES6+ (Next-Gen JS)<br>- Pengenalan React JS | Membuat aplikasi React sederhana | Praktikum (10%) | - |
 | 8 | - | Ujian Tengah Semester | - | UTS (15%) | - |
