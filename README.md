@@ -8,14 +8,14 @@ Repositori ini berisi materi, praktikum, dan tugas untuk mata kuliah Pemrograman
 
 | Minggu | Sub-CPMK | Materi Pembelajaran | Tugas/Praktikum | Penilaian | Slide |
 |--------|----------|----------------------|-----------------|-----------|----------------|
-| 1 | Mampu menelaah cara kerja aplikasi web | - Client-Server Model<br>- HTTP/HTTPS, DNS, URL<br>- Web Browsers & Servers | Analisis arsitektur web | Individu 1 (2%) | Slide Minggu 1 |
-| 2 | Mampu menguraikan cara kerja HTML | - Sintaks HTML<br>- Semantic Markup<br>- Struktur Dokumen HTML | Membuat halaman HTML sederhana | Individu 2 (3%) | Slide Minggu 2 |
-| 3-4 | Mampu menghubungkan penggunaan tag HTML dan CSS | - Styling Tabel & Form<br>- Microformats<br>- Layout dengan CSS | - | UTS Analisis Desain Web (10%) | Slide Minggu 3-4 |
-| 5-7 | Mampu menguraikan konsep pengembangan sisi client | - Dasar JavaScript<br>- ES6+ (Next-Gen JS)<br>- Pengenalan React JS | Membuat aplikasi React sederhana | Praktikum (10%) | Slide Minggu 5-7 |
+| 1 | Mampu menelaah cara kerja aplikasi web | - Client-Server Model<br>- HTTP/HTTPS, DNS, URL<br>- Web Browsers & Servers | Analisis arsitektur web | Individu 1 (2%) | - |
+| 2 | Mampu menguraikan cara kerja HTML | - Sintaks HTML<br>- Semantic Markup<br>- Struktur Dokumen HTML | Membuat halaman HTML sederhana | Individu 2 (3%) | - |
+| 3-4 | Mampu menghubungkan penggunaan tag HTML dan CSS | - Styling Tabel & Form<br>- Microformats<br>- Layout dengan CSS | - | UTS Analisis Desain Web (10%) | - |
+| 5-7 | Mampu menguraikan konsep pengembangan sisi client | - Dasar JavaScript<br>- ES6+ (Next-Gen JS)<br>- Pengenalan React JS | Membuat aplikasi React sederhana | Praktikum (10%) | - |
 | 8 | - | Ujian Tengah Semester | - | UTS (15%) | - |
-| 9-11 | Menguraikan konsep pengembangan sisi server | - Pemrograman Python<br>- OOP di Python<br>- Framework Python Pyramid | Membuat REST API dengan Pyramid | Praktikum (10%) | Slide Minggu 9-11 |
-| 12 | Mampu menghubungkan penggunaan basis data | - SQLAlchemy & Alembic<br>- Integrasi PostgreSQL-Pyramid | Studi kasus database | Individu 3 (5%) | Slide Minggu 12 |
-| 13-16 | Implementasi aplikasi web full-stack | - Perancangan ide<br>- Pengembangan server<br>- Pengembangan client | Proyek akhir | Presentasi & demo proyek (50%) | Template Proyek |
+| 9-11 | Menguraikan konsep pengembangan sisi server | - Pemrograman Python<br>- OOP di Python<br>- Framework Python Pyramid | Membuat REST API dengan Pyramid | Praktikum (10%) | - |
+| 12 | Mampu menghubungkan penggunaan basis data | - SQLAlchemy & Alembic<br>- Integrasi PostgreSQL-Pyramid | Studi kasus database | Individu 3 (5%) | - |
+| 13-16 | Implementasi aplikasi web full-stack | - Perancangan ide<br>- Pengembangan server<br>- Pengembangan client | Proyek akhir | Presentasi & demo proyek (50%) | - |
 
 ## 📂 Struktur Repositori
 minggu-1/<br />
