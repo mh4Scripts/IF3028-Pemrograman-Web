@@ -40,7 +40,7 @@ Repositori ini berisi materi, praktikum, dan tugas untuk mata kuliah Pemrograman
 ---
 
 ### **Minggu 5-7: JavaScript & React JS**
-- **Sub-CPMK**: Mahasiswa memahami pengembangan sisi client.
+- **Sub-CPMK**: Mahasiswa menguraikan konsep pengembangan sisi client.
 - **Materi**:
   - Dasar JavaScript
   - ES6+ (Next-Gen JS)
@@ -56,7 +56,7 @@ Repositori ini berisi materi, praktikum, dan tugas untuk mata kuliah Pemrograman
 ---
 
 ### **Minggu 9-11: Python & Pyramid Framework**
-- **Sub-CPMK**: Mahasiswa memahami pengembangan sisi server.
+- **Sub-CPMK**: Mahasiswa menguraikan konsep pengembangan sisi server.
 - **Materi**:
   - Pemrograman Python
   - OOP di Python
@@ -67,7 +67,7 @@ Repositori ini berisi materi, praktikum, dan tugas untuk mata kuliah Pemrograman
 ---
 
 ### **Minggu 12: Basis Data PostgreSQL**
-- **Sub-CPMK**: Mahasiswa mampu menghubungkan basis data.
+- **Sub-CPMK**: Mahasiswa mampu menghubungkan penggunaan basis data.
 - **Materi**:
   - SQLAlchemy & Alembic
   - Integrasi PostgreSQL-Pyramid
@@ -102,8 +102,8 @@ praktikum-web-programming-2025/
 2. **Referensi Tambahan**:  
    [Fundamentals of Web Development](https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-web-development/P200000003214/9780136792857) - Pearson 2023  
 3. **Media**:  
-   - [Slide Kuliah TODO](https://drive.example.com)  
-   - [Repositori Kode TODO](https://github.com/web-programming-itera)  
+   - [Slide Kuliah TODO](#)  
+   - [Repositori Kode TODO](#)  
 
 ## 📝 Penilaian
 | Komponen          | Bobot |
