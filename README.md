@@ -15,7 +15,7 @@ Repositori ini berisi materi, praktikum, dan tugas untuk mata kuliah Pemrograman
 | 8 | - | Ujian Tengah Semester | - | UTS (15%) | - |
 | 9-11 | Menguraikan konsep pengembangan sisi server | - Pemrograman Python<br>- OOP di Python<br>- Framework Python Pyramid | Membuat REST API dengan Pyramid | Praktikum (10%) | Buku 1 Bab 6-7<br>Slide Minggu 9-11 |
 | 12 | Mampu menghubungkan penggunaan basis data | - SQLAlchemy & Alembic<br>- Integrasi PostgreSQL-Pyramid | Studi kasus database | Individu 3 (5%) | Buku 1 Bab 8<br>Slide Minggu 12 |
-| 13-15 | Implementasi aplikasi web full-stack | - Perancangan ide<br>- Pengembangan server<br>- Pengembangan client | Proyek akhir | Presentasi & demo proyek (50%) | Buku 1 Bab 9<br>Template Proyek |
+| 13-16 | Implementasi aplikasi web full-stack | - Perancangan ide<br>- Pengembangan server<br>- Pengembangan client | Proyek akhir | Presentasi & demo proyek (50%) | Buku 1 Bab 9<br>Template Proyek |
 
 ## 📂 Struktur Repositori
 
